@@ -1,7 +1,7 @@
 # MNIST-AI-Analysis
 
 The MNIST analysis was the final project of my tensorflow online course (Deep Learning with Tensorflow 2.0) and a good first Github project.
-I will give a short overview here, but most of my thoughts are already written as comments in the code.
+I will give a short overview here, but most of my thoughts are already written as comments in the code. Feel free to download it and take a look.
 
 As the MNIST dataset is included in the tensorflow_datasets library it can easily be used as a first practicing project using TF.
 After importing the relevant libraries and loading the dataset a first important step was splitting the data into a train, validation and test batch. A 80-10-10 split was used.
